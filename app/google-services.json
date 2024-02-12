@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481070881991",
+    "firebase_url": "https://biosense-11f75-default-rtdb.firebaseio.com",
+    "project_id": "biosense-11f75",
+    "storage_bucket": "biosense-11f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481070881991:android:0c1effc61bf09b5b8532e2",
+        "android_client_info": {
+          "package_name": "com.example.healthcovid19app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481070881991-ocq0b8dsh14evfh29b5opqorrrmbtto6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthcovid19app",
+            "certificate_hash": "3e0528d56c9510b6b4ef82c23b5b92a57d89eabb"
+          }
+        },
+        {
+          "client_id": "481070881991-btrioeecvgfo78cfhbnmk7vdku692etm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA666DJbOzRr_6BOeokawXeKBra1gGPZGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481070881991-btrioeecvgfo78cfhbnmk7vdku692etm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

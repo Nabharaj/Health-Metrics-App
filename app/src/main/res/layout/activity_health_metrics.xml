@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/peakFlow1EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Peak Flow Measurement 1"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp"/>
+
+    <EditText
+        android:id="@+id/peakFlow2EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Peak Flow Measurement 2"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp"/>
+
+    <EditText
+        android:id="@+id/peakFlow3EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Peak Flow Measurement 3"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp"/>
+
+    <EditText
+        android:id="@+id/spo2EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="SpO2 Level (%)"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp"/>
+
+    <EditText
+        android:id="@+id/heartRateEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Heart Rate (bpm)"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp"/>
+
+    <EditText
+        android:id="@+id/breathingRateEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Breathing Rate (breaths/min)"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp"/>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="24dp"/>
+
+</LinearLayout>
